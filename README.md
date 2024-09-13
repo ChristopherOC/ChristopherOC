@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Je viens de France, actuellement à Dunkerque.<br><br>- 🔭 Je suis à la recherche d'une alternance en tant que Data Scientist ou Data Engineer<br>- 📚 Je me forme actuellement à React.JS<br>- ⚡Dans mon temps libre j'aime faire du sport, lire et je m'intéresse depuis tout petit au monde du jeu-vidéo et tout ce qui y touche !</p>
+<p align="center">Je viens de France, actuellement à Dunkerque.<br><br>- 🔭 Je suis à la recherche d'une alternance en tant que Data Scientist<br> ⚡Dans mon temps libre j'aime faire du sport, lire et je m'intéresse depuis tout petit au monde du jeu-vidéo et tout ce qui y touche !</p>
 
 ###
 
